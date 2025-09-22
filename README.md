@@ -1,4 +1,3 @@
-````markdown
 # Book Management System
 
 ## Overview
@@ -24,7 +23,7 @@ The **Book Management System** is a Python-based application that allows users t
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-````
+
 
 2. Install required Python packages:
 
@@ -87,11 +86,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries or suggestions, contact **Tom** at `your_email@example.com`.
+For any queries or suggestions, contact me at `logangreen1210@gmail.com`.
 
-```
-
-If you want, I can also make a **shorter, GitHub-ready version** that looks super clean with badges and a project image placeholder.  
-
-Do you want me to do that too?
 ```
