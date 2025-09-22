@@ -305,6 +305,31 @@ if __name__ == "__main__":
     """)
     system.login()
 
+    # Add some sample data
+    #system.add_book("The Great Gatsby", "F. Scott Fitzgerald", "9780743273565", "Classic", 1925, 5)
+    #system.add_book("To Kill a Mockingbird", "Harper Lee", "9780061120084", "Fiction", 1960, 3)
+    
+    # Add a user
+    #system.add_user("admin", "admin123", "admin@library.com", True)
+    #system.add_user("john", "password123", "john@example.com")
+    
+    # Search books
+    #print("\nSearch results for 'Gatsby':")
+    #books = system.search_books("Gatsby")
+    #for book in books:
+    #    print(f"{book['title']} by {book['author']}")
+    
+    # Borrow a book
+    #if system.authenticate_user("john", "password123"):
+    #    system.borrow_book(1, 2)  # Book ID 1, User ID 2
+    
+    # Show borrowed books
+    #print("\nCurrently borrowed books:")
+    #borrowed = system.get_borrowed_books()
+    #for book in borrowed:
+    #    print(f"{book['title']} borrowed by {book['username']}")
+
+
     
 
         
